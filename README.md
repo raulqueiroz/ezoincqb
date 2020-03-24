@@ -22,10 +22,9 @@ Ezo - Le Defi Code
     maven:4.0.0
     
     
-###Swagger ###
+### Swagger ###
 	_localhost_
 	http://localhost:9001/ezo-inc/swagger-ui.html
 
 ### IDE ###
-
 C'est un projet Maven, donc vous pouvez utilise une  IDE avec support en Maven (Eclipse, Spring Tools, etc).
